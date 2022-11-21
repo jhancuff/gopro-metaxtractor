@@ -22,7 +22,7 @@ If you're curious about what gets installed and how heres a quick list:
 - ffmpeg from Chocolatey
 - gopro2gpx from Juan Casillas [Repository](https://github.com/juanmcasillas/gopro2gpx) here on github.
 
-It's safe if you understand Powershell otherwise, who really knows, right?  ¯\_(ツ)_/¯
+It's safe if you understand Powershell otherwise, who really knows, right?  ¯\\_(ツ)_/¯
 
 ## Usage
 Just run the script from any directory.  No arguments.  If you double click to run, you'll get no console window.  If you run from the console, it'll minimize your console window.
