@@ -16,7 +16,7 @@ You should probably already have the following installed if you can.
 You don't necessarily have to worry about getting these setup manually.  My script has an automated dependencies check and can install the required dependencies for you.
 If you're curious about what gets installed and how heres a quick list:
 
-- Python 3 from WinGet
+- Python 3.12a from WinGet
 - Chocolatey from the official site
 - Git from Chocolatey
 - ffmpeg from Chocolatey
