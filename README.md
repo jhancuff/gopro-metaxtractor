@@ -25,5 +25,9 @@ If you're curious about what gets installed and how heres a quick list:
 It's safe if you understand Powershell otherwise, who really knows, right?  ¯\_(ツ)_/¯
 
 ## Usage
-Just run the script from any directory.  No arguments.
+Just run the script from any directory.  No arguments.  If you double click to run, you'll get no console window.  If you run from the console, it'll minimize your console window.
+
+Dependency Installer automagically elevates in order to install the new software using Winget and Choco.  Additionally, it'll create a stub file to let the program know that it's already done the dependency scan and/or install.
+
+
 
